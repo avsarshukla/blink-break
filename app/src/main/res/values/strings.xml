@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Blink Break</string>
+
+    <string name="notification_channel_name">Break timer</string>
+    <string name="notification_channel_description">Keeps the eye-break timer alive in the background</string>
+    <string name="notification_title">Blink Break is running</string>
+    <string name="notification_text_idle">Timer active</string>
+    <string name="notification_text_running">Next break every %1$d minutes</string>
+    <string name="notification_action_stop">Stop</string>
+
+    <string name="label_enable">Enable break reminders</string>
+    <string name="label_interval_value">Interval between breaks: %1$d min</string>
+    <string name="label_break_duration_value">Break duration: %1$d s</string>
+    <string name="button_reset_defaults">Reset to 20 min / 20 s</string>
+    <string name="label_breaks_taken">Breaks taken: %1$d</string>
+    <string name="label_next_break">Next break in: %1$s</string>
+    <string name="label_next_break_idle">Next break in: —</string>
+
+    <string name="section_permissions">Required permissions</string>
+    <string name="button_overlay">Allow display over other apps</string>
+    <string name="button_overlay_done">Display over other apps: allowed</string>
+    <string name="button_battery">Disable battery optimization</string>
+    <string name="button_battery_done">Battery optimization: unrestricted</string>
+    <string name="button_exact_alarm">Allow exact alarms</string>
+    <string name="button_exact_alarm_done">Exact alarms: allowed</string>
+    <string name="button_notifications">Allow notifications</string>
+    <string name="button_notifications_done">Notifications: allowed</string>
+
+    <string name="break_overlay_title">Look away from the screen</string>
+    <string name="break_overlay_countdown">%1$d</string>
+    <string name="break_overlay_hint">Blink slowly, relax your eyes. Tap anywhere to dismiss.</string>
+</resources>
