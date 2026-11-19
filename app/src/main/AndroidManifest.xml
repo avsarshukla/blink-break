@@ -10,7 +10,6 @@
     <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
 
     <application
-        android:name=".BlinkBreakApplication"
         android:allowBackup="true"
         android:icon="@drawable/ic_app_icon"
         android:label="@string/app_name"
